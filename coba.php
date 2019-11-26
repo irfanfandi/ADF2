@@ -1,1 +1,3 @@
-skandl
+<?php
+echo "FAJAR HOMO";
+?>
