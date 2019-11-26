@@ -1,3 +1,3 @@
 <?php
-echo "FAJAR HOMO";
+echo "Fandi love Vida";
 ?>
