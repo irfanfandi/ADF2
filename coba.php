@@ -1,3 +1,3 @@
 <?php
-echo "Fandi love Vida";
+echo "Fandi love Vida, vida klepek2";
 ?>
